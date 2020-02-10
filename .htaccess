@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(about|appointment|contact|department|doctor|endoscopic|ent|generalsurgery|Hospital|index|maternity|orthopedic|plastic|urology|error)$ $1.php [NC,L]
